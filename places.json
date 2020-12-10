@@ -1,0 +1,20 @@
+[
+    {
+        "heading": "Dark Cave",
+        "description": "You find yourself in a dark cave.",
+        "options": [
+            "You see an opening in the cave.",
+            "You see a stream of water."
+        ]
+    },
+    {
+        "heading" : "A Bustling Town",
+        "description" : "You see hundreds of people milling about.",
+        "options": []
+    },
+    {
+        "heading" : "A Quiet Meadow",
+        "description" : "Birds are singing. The sun is beaming.",
+        "options": []
+    }
+]
